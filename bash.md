@@ -16,6 +16,8 @@ ssh: connect to remote computer
 
 scp: cp to remote computer
 
+more to come
+
 
 ## Loops
 
@@ -26,3 +28,4 @@ This is a file with bash configs.
 alias gs='git status'
 
 alias gb='git branch'
+
